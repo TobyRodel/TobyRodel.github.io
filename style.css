@@ -47,39 +47,8 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Footer Styles */
 footer {
-    background: #35424a;
-    color: #ffffff;
-    text-align: center;
-    left: 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-.footer a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.footer a:link{
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.footer a:hover{
-    color: #e8491d;
-    text-decoration: none;
-}
-
-.footer a:visited{
-    color: #ffffff;
-    text-decoration: none;
-}
-
-footer p {
-    margin: 0;
+  text-align: center;
 }
 
 /* Top Navigation Bar */
