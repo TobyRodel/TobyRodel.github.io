@@ -7,6 +7,11 @@ body {
     color: #333;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Header Styles */
 header {
     background: #35424a;
