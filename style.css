@@ -5,6 +5,9 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
 }
 
 img {
@@ -59,7 +62,7 @@ img {
 }
 
 .social-buttons a:hover {
-    color: #e8491d;
+    color: blue;
 }
 
 /* Header Styles */
