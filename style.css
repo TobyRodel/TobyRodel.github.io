@@ -16,9 +16,50 @@ img {
     float: right;
     margin-right: 20px;
 }
+
+.footright a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footright a:hover {
+  text-decoration: underline;
+}
+
+.footright a:visited {
+  color: #ffffff;
+}
+
 .footleft {
     float: left;
     margin-left: 20px;
+}
+
+.footleft a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footleft a:hover {
+    text-decoration: underline;
+}
+
+.footleft a:visited {
+    color: #ffffff;
+}
+
+.social-buttons {
+    color: #ffffff;
+}
+
+.social-buttons a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-buttons a:hover {
+    color: #e8491d;
 }
 
 /* Header Styles */
