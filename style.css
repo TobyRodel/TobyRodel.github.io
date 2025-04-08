@@ -12,6 +12,15 @@ img {
     height: auto;
 }
 
+.footright {
+    float: right;
+    margin-right: 20px;
+}
+.footleft {
+    float: left;
+    margin-left: 20px;
+}
+
 /* Header Styles */
 header {
     background: #35424a;
@@ -70,6 +79,12 @@ footer {
   width: 100%;
   background-color: #35424a;
   color: white;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px 0;
+    word-spacing: auto;
 }
 
 /* Top Navigation Bar */
