@@ -183,18 +183,10 @@ footer p {
     .footright {
       float: none;
     }
-    .footleft i {
-      display: inline-block;
-    }
-    .footright i {
-      display: inline-block;
-    }
     .footleft a {
-      display: block;
       text-align: center;
     }
     .footright a {
-      display: block;
       text-align: center;
     }
   }
