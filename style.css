@@ -179,11 +179,9 @@ footer p {
     }
     .footleft {
       float: none;
-      margin-left: 0;
     }
     .footright {
       float: none;
-      margin-right: 0;
     }
     .footleft a {
       display: block;
