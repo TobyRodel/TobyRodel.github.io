@@ -183,6 +183,12 @@ footer p {
     .footright {
       float: none;
     }
+    .footleft i {
+      display: flex;
+    }
+    .footright i {
+      display: flex;
+    }
     .footleft a {
       display: block;
       text-align: center;
