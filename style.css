@@ -184,10 +184,10 @@ footer p {
       float: none;
     }
     .footleft i {
-      display: flex;
+      display: inline-block;
     }
     .footright i {
-      display: flex;
+      display: inline-block;
     }
     .footleft a {
       display: block;
