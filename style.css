@@ -2,6 +2,18 @@
 body {
     font-family: Arial, sans-serif;
     width: auto;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+
+.mainbody {
+    font-family: Arial, sans-serif;
+    width: auto;
     max-width: 960px;
     margin: 0 auto;
     padding: 0 auto;
